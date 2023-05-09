@@ -1,3 +1,7 @@
 node_modules
+<<<<<<< HEAD
 .env
 images
+=======
+.env
+>>>>>>> 7a58f5c8e2a83f70e39fbfc705aa67c54ef1ac05
